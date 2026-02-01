@@ -13,7 +13,7 @@ This project analyzes customer churn in a telecom company, leveraging both Pytho
 - Jupyter Notebook
 
 ## Data Source
-- [Dataset Name/Source URL]
+- [https://www.kaggle.com/datasets/blastchar/telco-customer-churn]
 
 ## Setup Instructions
 Install necessary libraries:
